@@ -1,1 +1,2 @@
-develop = split
+develop=split
+release=notsplit
