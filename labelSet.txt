@@ -1,2 +1,3 @@
-develop=split
-release=notsplit
+feature=split
+develop=nonsplit
+release=nonsplit
