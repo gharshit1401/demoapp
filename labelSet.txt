@@ -1,2 +1,4 @@
-develop=split
-release=notsplit
+feature=withsposervice
+develop=withsposervice
+release=nosposervice
+
